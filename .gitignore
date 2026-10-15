@@ -1,0 +1,17 @@
+# Raw and processed data
+data/raw/
+data/clean/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
